@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @azreenasir
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning/unemployed.
 - 📫 How to reach me 
 - Contact me: azreenasir99@gmail.com 
 
